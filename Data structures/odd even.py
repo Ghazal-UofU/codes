@@ -2,7 +2,7 @@
 #Ghazal
 
 
-# putting odd and even into seprate lists
+# putting odd and even into separate lists
 
 c= [4, 2, 6, 7, 88, 33, 555, 3, 9999]
 
