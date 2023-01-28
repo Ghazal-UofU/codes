@@ -5,7 +5,7 @@
 text = "I am learning about n-grams"
 ngrams = []
 for i in range(len(text)-1):
-    ngrams.append(text[i:i+2])
+    ngrams.append(text[i:i+2])           #stop is up to but not including
 print(ngrams)
 
 
